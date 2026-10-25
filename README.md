@@ -25,6 +25,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Vibe coding - Wikipedia](https://en.wikipedia.org/wiki/Vibe_coding) - Wikipedia article defining vibe coding and tracing its origin.
 - [Vibe coding is passé - The New Stack](https://thenewstack.io/vibe-coding-is-passe/) - Karpathy's evolution of the concept toward "agentic engineering".
 - [automata/aicodeguide](https://github.com/automata/aicodeguide) - A roadmap to start coding with AI.
+- [Vibe Coding Cheat Sheet (CheatGrid)](https://www.cheatgrid.com/software-engineering/0082-vibe-coding-cheat-sheet) - Free reference tables on vibe coding concepts, rules files, prompting, context engineering and testing with AI.
 
 ## Browser-based Tools
 
